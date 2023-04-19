@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<a href="http://www.amigoo.store/" target="_blank"><img src="https://img.shields.io/badge/000000?style=plastic&logo=#03C75A&logoColor=FFFFFF"/></a>
+
 <!--
 **me1kara/me1kara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
