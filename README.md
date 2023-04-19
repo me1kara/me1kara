@@ -17,11 +17,11 @@
 
 ### ✨Project
 <a href="http://www.amigoo.store/" target="_blank"><img src="https://img.shields.io/badge/Amigo-632CA6?style=plastic&logo=datadog&logoColor=FFFFFF"/>
+</a><a href="http://youtu.be/cd7Hc_jhdqk/" target="_blank"><img src="https://img.shields.io/badge/Amigo-FF0000?style=plastic&logo=youtube&logoColor=FFFFFF"/>
 </a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=me1kara&show_icons=true&theme=radical)
-
 
 
 <!--
