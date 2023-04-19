@@ -17,7 +17,7 @@
 
 ### ✨Project
 <a href="http://www.amigoo.store/" target="_blank"><img src="https://img.shields.io/badge/Amigo-632CA6?style=plastic&logo=datadog&logoColor=FFFFFF"/>
-</a><a href="[http://youtu.be/cd7Hc_jhdqk/](https://www.youtube.com/watch?v=cd7Hc_jhDqk)" target="_blank"><img src="https://img.shields.io/badge/Amigo-FF0000?style=plastic&logo=youtube&logoColor=FFFFFF"/>
+</a><a href="http://youtu.be/cd7Hc_jhdqk" target="_blank"><img src="https://img.shields.io/badge/Amigo-FF0000?style=plastic&logo=youtube&logoColor=FFFFFF"/>
 </a>
 
 
