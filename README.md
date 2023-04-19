@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=me1kara&show_icons=true&theme=radical)
+
 안녕하세요! 저는 웹개발자를 희망하고 준비하고있는 초보개발자 한준호입니다! <br>
 깃허브에는 간단한 토이프로젝트 위주로 올릴 생각입니다.
 
@@ -19,7 +21,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=me1kara&show_icons=true&theme=radical)
+
 
 <!--
 **me1kara/me1kara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
