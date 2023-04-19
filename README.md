@@ -1,7 +1,15 @@
 ### Hi there 👋
 
 
-<a href="http://www.amigoo.store/" target="_blank"><img src="https://img.shields.io/badge/000000?style=plastic&logo=#03C75A&logoColor=FFFFFF"/></a>
+<a href="http://www.amigoo.store/" target="_blank"></a>
+
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/clcjs574@naver.com-03C75A?style=plastic&logo=Naver&logoColor=FFFFFF"/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=me1kara&show_icons=true&theme=radical)
 
 <!--
 **me1kara/me1kara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
