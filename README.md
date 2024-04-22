@@ -5,8 +5,7 @@
 
 
 ### ✨Skills
-<!-- <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=Css3&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
--->
+<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=Css3&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=FFFFFF"/> 
 
