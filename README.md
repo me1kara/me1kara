@@ -1,6 +1,6 @@
 
 <em><b>안녕하세요!</b></em><br>
-1년차 개발자 <strong>한준호</strong>입니다! <br>
+3년차 개발자 <strong>한준호</strong>입니다! <br>
 
 
 ### ✨Skills
